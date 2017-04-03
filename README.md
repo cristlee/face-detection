@@ -1,9 +1,9 @@
-# Facetrack
+# Facedetection
 
-Facetrack can be used to track human faces in a video feed and store them in a directory.You can also search for a face and see if it had been detected.
+Facedetection can be used to detect human faces in a video feed and store them in a directory.You can also search for a face and see if it had been detected.
 
 ### Tech
-Facetrack uses Opencv to work properly.Head to http://opencv.org/ to install it in your system.
+Facedetection uses Opencv to work properly.Head to http://opencv.org/ to install it in your system.
 
 ## Installation
 
