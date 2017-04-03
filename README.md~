@@ -16,6 +16,13 @@ Facetrack uses Opencv to work properly.Head to http://opencv.org/ to install it 
 $ pip install -r requirements.txt
 ```
 
+For production environments...
+
+```sh
+$ npm install --production
+$ npm run predeploy
+$ NODE_ENV=production node app
+```
 ### How to run?
 To start tracking use:
 ```sh
